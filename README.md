@@ -1,7 +1,7 @@
 Hi 👋 My name is Nikos Katsafados
 =================================
 
-Junior Web Developer
+Junior Front-End Developer
 --------------------
 
 For the last 3 months, I have been attending a front-end developer bootcamp by Socialinnov. During this course, I come in touch with the core concepts of HTML, CSS, JAVASCRIPT, ANGULASJS framework, and REACT library. At the same time, I am trying to build small applications to expand my knowledge regarding these technologies.
